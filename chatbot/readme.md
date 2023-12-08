@@ -1,3 +1,7 @@
+files and folder workflow
+chatbot is a main folder
+
+
 chatbot ---> 1. chat_model/
               2. app
               3. chat
